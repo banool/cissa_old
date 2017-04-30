@@ -1,0 +1,4 @@
+[28-Aug-2016 23:55:04 Australia/Melbourne] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/cissaorg/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[30-Aug-2016 05:19:32 Australia/Melbourne] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/cissaorg/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[31-Aug-2016 06:08:18 Australia/Melbourne] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/cissaorg/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[05-Sep-2016 00:41:37 Australia/Melbourne] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/cissaorg/public_html/wp-includes/SimplePie/Cache/File.php on line 52

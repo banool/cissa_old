@@ -1,0 +1,151 @@
+[28-Jul-2015 09:37:01 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/registration.php on line 7
+[12-Nov-2015 14:54:20 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/cissaorg/public_html/wp-includes/vars.php on line 23
+[12-Nov-2015 14:54:20 UTC] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/category-template.php on line 967
+[12-Nov-2015 14:54:20 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/cissaorg/public_html/wp-includes/update.php on line 678
+[12-Nov-2015 14:54:20 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/rss-functions.php on line 8
+[12-Nov-2015 14:54:20 UTC] PHP Warning:  require_once(ABSPATHWPINC/ms-load.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/ms-settings.php on line 14
+[12-Nov-2015 14:54:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/ms-settings.php on line 14
+[12-Nov-2015 14:54:20 UTC] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/post-template.php on line 1325
+[12-Nov-2015 14:54:20 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/registration-functions.php on line 7
+[12-Nov-2015 14:54:20 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/cissaorg/public_html/wp-includes/class-wp-embed.php on line 28
+[12-Nov-2015 14:54:21 UTC] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/comment-template.php on line 1680
+[12-Nov-2015 14:54:21 UTC] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/nav-menu-template.php on line 16
+[12-Nov-2015 14:54:21 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/default-widgets.php on line 14
+[12-Nov-2015 14:54:21 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/rss.php on line 19
+[12-Nov-2015 14:54:21 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/class-simplepie.php on line 5
+[12-Nov-2015 14:54:21 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/class-simplepie.php on line 5
+[12-Nov-2015 14:54:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/class-simplepie.php on line 5
+[12-Nov-2015 14:54:21 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/cissaorg/public_html/wp-includes/template-loader.php on line 28
+[12-Nov-2015 14:54:21 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/class-snoopy.php on line 6
+[12-Nov-2015 14:54:21 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/cissaorg/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[12-Nov-2015 14:54:22 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/cissaorg/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[12-Nov-2015 14:54:22 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/registration.php on line 7
+[12-Nov-2015 14:54:22 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/script-loader.php on line 25
+[12-Nov-2015 14:54:22 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/script-loader.php on line 25
+[12-Nov-2015 14:54:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/script-loader.php on line 25
+[12-Nov-2015 14:54:22 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rss2.php on line 8
+[12-Nov-2015 14:54:22 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-atom-comments.php on line 8
+[12-Nov-2015 14:54:22 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rss2-comments.php on line 8
+[12-Nov-2015 14:54:24 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rss.php on line 8
+[12-Nov-2015 14:54:24 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[12-Nov-2015 14:54:24 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[12-Nov-2015 14:54:24 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[12-Nov-2015 14:54:24 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/class-feed.php on line 4
+[12-Nov-2015 14:54:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/class-feed.php on line 4
+[12-Nov-2015 14:54:24 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/cissaorg/public_html/wp-includes/class.wp-scripts.php on line 19
+[12-Nov-2015 14:54:25 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/cissaorg/public_html/wp-includes/media.php on line 831
+[12-Nov-2015 14:54:25 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rdf.php on line 8
+[12-Nov-2015 14:54:25 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/cissaorg/public_html/wp-includes/class.wp-styles.php on line 19
+[12-Nov-2015 14:54:25 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cissaorg/public_html/wp-includes/ms-default-filters.php on line 16
+[12-Nov-2015 14:54:25 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/cissaorg/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[12-Nov-2015 14:54:25 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-atom.php on line 8
+[12-Nov-2015 14:54:25 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/cissaorg/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[12-Nov-2015 14:54:26 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/cissaorg/public_html/wp-includes/default-filters.php on line 17
+[28-Mar-2016 19:20:28 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[28-Mar-2016 19:20:28 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[28-Mar-2016 19:20:28 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[28-Mar-2016 19:20:43 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[28-Mar-2016 19:20:43 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[28-Mar-2016 19:20:43 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[13-Jun-2016 04:46:06 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/nav-menu-template.php on line 16
+[13-Jun-2016 04:46:16 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/rss.php on line 19
+[13-Jun-2016 04:46:21 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-page.php on line 17
+[13-Jun-2016 04:46:24 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[13-Jun-2016 04:46:49 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_filter() in /home/cissaorg/public_html/wp-includes/default-filters.php on line 17
+[13-Jun-2016 04:46:51 Australia/Melbourne] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/default-widgets.php on line 11
+[13-Jun-2016 04:46:51 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/default-widgets.php on line 11
+[13-Jun-2016 04:47:32 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[13-Jun-2016 04:47:32 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[13-Jun-2016 04:47:32 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[13-Jun-2016 04:47:35 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rss.php on line 8
+[13-Jun-2016 04:47:45 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/rss-functions.php on line 8
+[13-Jun-2016 04:47:48 Australia/Melbourne] PHP Fatal error:  Call to undefined function is_admin() in /home/cissaorg/public_html/wp-includes/vars.php on line 23
+[13-Jun-2016 04:47:56 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_action() in /home/cissaorg/public_html/wp-includes/formatting.php on line 4820
+[13-Jun-2016 04:48:03 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/compat.php on line 338
+[13-Jun-2016 04:48:03 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/compat.php on line 338
+[13-Jun-2016 04:48:03 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/compat.php on line 338
+[13-Jun-2016 04:48:19 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rss2.php on line 8
+[13-Jun-2016 04:48:25 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/script-loader.php on line 25
+[13-Jun-2016 04:48:25 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/script-loader.php on line 25
+[13-Jun-2016 04:48:25 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/script-loader.php on line 25
+[13-Jun-2016 04:49:27 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-atom.php on line 8
+[13-Jun-2016 04:52:23 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-category.php on line 17
+[13-Jun-2016 04:52:24 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[13-Jun-2016 04:52:45 Australia/Melbourne] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[13-Jun-2016 04:52:45 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[13-Jun-2016 04:52:53 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-comment.php on line 16
+[13-Jun-2016 04:53:09 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rdf.php on line 8
+[28-Jul-2016 21:12:34 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/nav-menu-template.php on line 16
+[28-Jul-2016 21:12:48 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-page.php on line 17
+[28-Jul-2016 21:12:50 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[28-Jul-2016 21:13:08 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/script-loader.php on line 25
+[28-Jul-2016 21:13:08 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/script-loader.php on line 25
+[28-Jul-2016 21:13:08 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/script-loader.php on line 25
+[28-Jul-2016 21:13:17 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_filter() in /home/cissaorg/public_html/wp-includes/default-filters.php on line 17
+[28-Jul-2016 21:13:18 Australia/Melbourne] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/default-widgets.php on line 11
+[28-Jul-2016 21:13:18 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/default-widgets.php on line 11
+[28-Jul-2016 21:13:23 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[28-Jul-2016 21:13:44 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rss2.php on line 8
+[28-Jul-2016 21:13:47 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[28-Jul-2016 21:13:47 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[28-Jul-2016 21:13:47 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[28-Jul-2016 21:13:57 Australia/Melbourne] PHP Fatal error:  Call to undefined function is_admin() in /home/cissaorg/public_html/wp-includes/vars.php on line 23
+[28-Jul-2016 21:13:59 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-category.php on line 17
+[28-Jul-2016 21:14:13 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_action() in /home/cissaorg/public_html/wp-includes/formatting.php on line 4829
+[28-Jul-2016 21:14:36 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/compat.php on line 338
+[28-Jul-2016 21:14:36 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/compat.php on line 338
+[28-Jul-2016 21:14:36 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/compat.php on line 338
+[28-Jul-2016 21:14:44 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-atom.php on line 8
+[28-Jul-2016 21:15:27 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/rss.php on line 19
+[28-Jul-2016 21:15:29 Australia/Melbourne] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[28-Jul-2016 21:15:29 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[28-Jul-2016 21:15:41 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-comment.php on line 16
+[28-Jul-2016 21:15:55 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rdf.php on line 8
+[28-Jul-2016 21:16:00 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/rss-functions.php on line 8
+[28-Jul-2016 21:16:02 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rss.php on line 8
+[24-Aug-2016 04:14:09 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_filter() in /home/cissaorg/public_html/wp-includes/default-filters.php on line 17
+[24-Aug-2016 05:06:46 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/nav-menu-template.php on line 16
+[24-Aug-2016 05:45:30 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rdf.php on line 8
+[24-Aug-2016 06:24:14 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-atom.php on line 8
+[24-Aug-2016 06:27:00 Australia/Melbourne] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/default-widgets.php on line 11
+[24-Aug-2016 06:27:00 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/default-widgets.php on line 11
+[24-Aug-2016 06:38:05 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/class-snoopy.php on line 6
+[24-Aug-2016 07:24:49 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/compat.php on line 435
+[24-Aug-2016 07:24:49 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/compat.php on line 435
+[24-Aug-2016 07:24:49 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/compat.php on line 435
+[24-Aug-2016 10:25:30 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-page.php on line 17
+[24-Aug-2016 18:40:48 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/class-simplepie.php on line 5
+[24-Aug-2016 18:40:48 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/class-simplepie.php on line 5
+[24-Aug-2016 18:40:48 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/class-simplepie.php on line 5
+[24-Aug-2016 20:56:26 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-category.php on line 17
+[24-Aug-2016 23:37:31 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-atom-comments.php on line 8
+[26-Aug-2016 02:30:22 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-atom-comments.php on line 8
+[27-Aug-2016 16:17:22 Australia/Melbourne] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/class-wp-customize-panel.php on line 389
+[27-Aug-2016 16:17:22 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/class-wp-customize-panel.php on line 389
+[27-Aug-2016 22:10:00 Australia/Melbourne] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/cissaorg/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[28-Aug-2016 00:40:01 Australia/Melbourne] PHP Fatal error:  Call to undefined function is_admin() in /home/cissaorg/public_html/wp-includes/vars.php on line 23
+[28-Aug-2016 21:27:24 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[28-Aug-2016 21:56:56 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/registration.php on line 7
+[28-Aug-2016 22:01:28 Australia/Melbourne] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/cissaorg/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[28-Aug-2016 22:35:33 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-comment.php on line 17
+[29-Aug-2016 00:24:37 Australia/Melbourne] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/class-feed.php on line 4
+[29-Aug-2016 00:24:37 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/class-feed.php on line 4
+[29-Aug-2016 00:38:15 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_action() in /home/cissaorg/public_html/wp-includes/ms-default-filters.php on line 16
+[29-Aug-2016 19:24:13 Australia/Melbourne] PHP Fatal error:  Call to undefined function feed_content_type() in /home/cissaorg/public_html/wp-includes/feed-rss2-comments.php on line 8
+[29-Aug-2016 19:36:27 Australia/Melbourne] PHP Warning:  require_once(ABSPATHWPINC/class-wp-network.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/ms-settings.php on line 14
+[29-Aug-2016 19:36:27 Australia/Melbourne] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-network.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/ms-settings.php on line 14
+[29-Aug-2016 20:33:31 Australia/Melbourne] PHP Fatal error:  Class 'Walker' not found in /home/cissaorg/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[30-Aug-2016 06:10:42 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/registration-functions.php on line 7
+[30-Aug-2016 06:39:42 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/script-loader.php on line 20
+[30-Aug-2016 06:39:42 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/script-loader.php on line 20
+[30-Aug-2016 06:39:42 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/script-loader.php on line 20
+[30-Aug-2016 16:37:12 Australia/Melbourne] PHP Fatal error:  Call to undefined function is_robots() in /home/cissaorg/public_html/wp-includes/template-loader.php on line 28
+[30-Aug-2016 17:49:00 Australia/Melbourne] PHP Fatal error:  Class 'IXR_Client' not found in /home/cissaorg/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[30-Aug-2016 18:30:53 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_filter() in /home/cissaorg/public_html/wp-includes/class-wp-embed.php on line 28
+[30-Aug-2016 19:06:48 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/rss-functions.php on line 8
+[31-Aug-2016 00:06:02 Australia/Melbourne] PHP Fatal error:  Call to undefined function is_main_site() in /home/cissaorg/public_html/wp-includes/update.php on line 681
+[31-Aug-2016 06:44:50 Australia/Melbourne] PHP Fatal error:  Call to undefined function add_shortcode() in /home/cissaorg/public_html/wp-includes/media.php on line 1430
+[31-Aug-2016 16:29:03 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[31-Aug-2016 16:29:03 Australia/Melbourne] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[31-Aug-2016 16:29:03 Australia/Melbourne] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/cissaorg/public_html/wp-includes/functions.php on line 8
+[01-Sep-2016 07:25:39 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/rss.php on line 19

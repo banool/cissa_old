@@ -1,0 +1,7 @@
+[30-Jul-2015 11:06:48 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/cissaorg/public_html/wp-admin/includes/plugin.php on line 1807
+[05-Aug-2015 12:24:41 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/cissaorg/public_html/wp-admin/includes/plugin.php on line 1807
+[05-Aug-2015 12:24:53 UTC] PHP Fatal error:  Class 'Walker_Nav_Menu' not found in /home/cissaorg/public_html/wp-admin/includes/nav-menu.php on line 10
+[05-Aug-2015 12:24:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cissaorg/public_html/wp-admin/includes/plugin-install.php on line 161
+[05-Aug-2015 12:25:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cissaorg/public_html/wp-admin/includes/user.php on line 387
+[05-Aug-2015 12:25:16 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cissaorg/public_html/wp-admin/includes/dashboard.php on line 1177
+[19-Aug-2016 11:26:28 Australia/Melbourne] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/cissaorg/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

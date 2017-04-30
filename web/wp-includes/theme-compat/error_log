@@ -1,0 +1,5 @@
+[25-Aug-2016 19:43:19 Australia/Melbourne] PHP Fatal error:  Call to undefined function language_attributes() in /home/cissaorg/public_html/wp-includes/theme-compat/header-embed.php on line 19
+[25-Aug-2016 21:56:26 Australia/Melbourne] PHP Fatal error:  Call to undefined function post_class() in /home/cissaorg/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[29-Aug-2016 00:10:59 Australia/Melbourne] PHP Fatal error:  Call to undefined function get_header() in /home/cissaorg/public_html/wp-includes/theme-compat/embed.php on line 13
+[30-Aug-2016 06:36:17 Australia/Melbourne] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/cissaorg/public_html/wp-includes/theme-compat/footer.php on line 10
+[07-Sep-2016 01:52:00 Australia/Melbourne] PHP Fatal error:  Call to undefined function do_action() in /home/cissaorg/public_html/wp-includes/theme-compat/footer-embed.php on line 18

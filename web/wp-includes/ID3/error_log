@@ -1,0 +1,5 @@
+[31-Aug-2016 19:03:54 Australia/Melbourne] PHP Fatal error:  Class 'getid3_lib' not found in /home/cissaorg/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[31-Aug-2016 19:08:09 Australia/Melbourne] PHP Fatal error:  Class 'getid3_lib' not found in /home/cissaorg/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[01-Sep-2016 05:49:03 Australia/Melbourne] PHP Fatal error:  Class 'getid3_lib' not found in /home/cissaorg/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[02-Sep-2016 11:30:53 Australia/Melbourne] PHP Fatal error:  Class 'getid3_lib' not found in /home/cissaorg/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[07-Sep-2016 22:18:24 Australia/Melbourne] PHP Fatal error:  Class 'getid3_handler' not found in /home/cissaorg/public_html/wp-includes/ID3/module.tag.apetag.php on line 18

@@ -1,0 +1,11 @@
+[29-Aug-2016 06:30:13 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[29-Aug-2016 07:33:33 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[29-Aug-2016 08:05:13 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[29-Aug-2016 11:22:12 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[30-Aug-2016 06:19:13 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[31-Aug-2016 14:54:29 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[31-Aug-2016 15:50:22 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[31-Aug-2016 15:54:41 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[01-Sep-2016 16:18:30 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[02-Sep-2016 05:50:11 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[02-Sep-2016 16:42:20 Australia/Melbourne] PHP Fatal error:  Class 'WP_Widget' not found in /home/cissaorg/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
